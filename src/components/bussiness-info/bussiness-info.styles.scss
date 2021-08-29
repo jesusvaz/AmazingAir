@@ -1,0 +1,28 @@
+.header{
+    color: blue;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.subtitle{
+    color: blue;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+
+hr{
+    height:25px;
+    border-width:0;
+    color:red;
+    background-color:red
+}
+
+.services{
+    font-family: 'Roboto', sans-serif;
+}
+.pictures{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+}
