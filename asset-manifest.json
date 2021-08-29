@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AmazingAir/static/css/main.5410283d.chunk.css",
+    "main.js": "/AmazingAir/static/js/main.c6c92db1.chunk.js",
+    "main.js.map": "/AmazingAir/static/js/main.c6c92db1.chunk.js.map",
+    "runtime-main.js": "/AmazingAir/static/js/runtime-main.2d207c5a.js",
+    "runtime-main.js.map": "/AmazingAir/static/js/runtime-main.2d207c5a.js.map",
+    "static/js/2.dd6a7fc6.chunk.js": "/AmazingAir/static/js/2.dd6a7fc6.chunk.js",
+    "static/js/2.dd6a7fc6.chunk.js.map": "/AmazingAir/static/js/2.dd6a7fc6.chunk.js.map",
+    "static/js/3.60fb982a.chunk.js": "/AmazingAir/static/js/3.60fb982a.chunk.js",
+    "static/js/3.60fb982a.chunk.js.map": "/AmazingAir/static/js/3.60fb982a.chunk.js.map",
+    "index.html": "/AmazingAir/index.html",
+    "static/css/main.5410283d.chunk.css.map": "/AmazingAir/static/css/main.5410283d.chunk.css.map",
+    "static/js/2.dd6a7fc6.chunk.js.LICENSE.txt": "/AmazingAir/static/js/2.dd6a7fc6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AmazingAir/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d207c5a.js",
+    "static/js/2.dd6a7fc6.chunk.js",
+    "static/css/main.5410283d.chunk.css",
+    "static/js/main.c6c92db1.chunk.js"
+  ]
+}
